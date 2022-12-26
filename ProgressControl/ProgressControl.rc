@@ -1,0 +1,189 @@
+// Microsoft Visual C++ generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "windows.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// ??????? (??????) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_RUS)
+LANGUAGE LANG_RUSSIAN, SUBLANG_DEFAULT
+#pragma code_page(1251)
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE 
+BEGIN
+    "#include ""windows.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE 
+BEGIN
+    "\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog
+//
+
+IDD_DIALOG1 DIALOGEX 0, 0, 199, 211
+STYLE DS_SETFONT | DS_MODALFRAME | DS_FIXEDSYS | DS_CENTER | WS_MINIMIZEBOX | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Minesweaper"
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    PUSHBUTTON      "Button3",IDC_BUTTON2,7,7,23,21,BS_BITMAP
+    PUSHBUTTON      "Button3",IDC_BUTTON3,30,7,23,21,BS_BITMAP
+    PUSHBUTTON      "Button3",IDC_BUTTON4,53,7,23,21,BS_BITMAP
+    PUSHBUTTON      "Button3",IDC_BUTTON5,76,7,23,21,BS_BITMAP
+    PUSHBUTTON      "Button3",IDC_BUTTON6,99,7,23,21,BS_BITMAP
+    PUSHBUTTON      "Button3",IDC_BUTTON7,122,7,23,21,BS_BITMAP
+    PUSHBUTTON      "Button3",IDC_BUTTON8,145,7,23,21,BS_BITMAP
+    PUSHBUTTON      "Button3",IDC_BUTTON9,168,7,23,21,BS_BITMAP
+    PUSHBUTTON      "Button3",IDC_BUTTON10,7,28,23,21,BS_BITMAP
+    PUSHBUTTON      "Button3",IDC_BUTTON11,30,28,23,21,BS_BITMAP
+    PUSHBUTTON      "Button3",IDC_BUTTON12,53,28,23,21,BS_BITMAP
+    PUSHBUTTON      "Button3",IDC_BUTTON13,76,28,23,21,BS_BITMAP
+    PUSHBUTTON      "Button3",IDC_BUTTON14,99,28,23,21,BS_BITMAP
+    PUSHBUTTON      "Button3",IDC_BUTTON15,122,28,23,21,BS_BITMAP
+    PUSHBUTTON      "Button3",IDC_BUTTON16,145,28,23,21,BS_BITMAP
+    PUSHBUTTON      "Button3",IDC_BUTTON17,168,28,23,21,BS_BITMAP
+    PUSHBUTTON      "Button3",IDC_BUTTON18,7,49,23,21,BS_BITMAP
+    PUSHBUTTON      "Button3",IDC_BUTTON19,30,49,23,21,BS_BITMAP
+    PUSHBUTTON      "Button3",IDC_BUTTON20,53,49,23,21,BS_BITMAP
+    PUSHBUTTON      "Button3",IDC_BUTTON21,76,49,23,21,BS_BITMAP
+    PUSHBUTTON      "Button3",IDC_BUTTON22,99,49,23,21,BS_BITMAP
+    PUSHBUTTON      "Button3",IDC_BUTTON23,122,49,23,21,BS_BITMAP
+    PUSHBUTTON      "Button3",IDC_BUTTON24,145,49,23,21,BS_BITMAP
+    PUSHBUTTON      "Button3",IDC_BUTTON25,168,49,23,21,BS_BITMAP
+    PUSHBUTTON      "Button3",IDC_BUTTON26,7,70,23,21,BS_BITMAP
+    PUSHBUTTON      "Button3",IDC_BUTTON27,30,70,23,21,BS_BITMAP
+    PUSHBUTTON      "Button3",IDC_BUTTON28,53,70,23,21,BS_BITMAP
+    PUSHBUTTON      "Button3",IDC_BUTTON29,76,70,23,21,BS_BITMAP
+    PUSHBUTTON      "Button3",IDC_BUTTON30,99,70,23,21,BS_BITMAP
+    PUSHBUTTON      "Button3",IDC_BUTTON31,122,70,23,21,BS_BITMAP
+    PUSHBUTTON      "Button3",IDC_BUTTON32,145,70,23,21,BS_BITMAP
+    PUSHBUTTON      "Button3",IDC_BUTTON33,168,70,23,21,BS_BITMAP
+    PUSHBUTTON      "Button3",IDC_BUTTON34,7,91,23,21,BS_BITMAP
+    PUSHBUTTON      "Button3",IDC_BUTTON35,30,91,23,21,BS_BITMAP
+    PUSHBUTTON      "Button3",IDC_BUTTON36,53,91,23,21,BS_BITMAP
+    PUSHBUTTON      "Button3",IDC_BUTTON37,76,91,23,21,BS_BITMAP
+    PUSHBUTTON      "Button3",IDC_BUTTON38,99,91,23,21,BS_BITMAP
+    PUSHBUTTON      "Button3",IDC_BUTTON39,122,91,23,21,BS_BITMAP
+    PUSHBUTTON      "Button3",IDC_BUTTON40,145,91,23,21,BS_BITMAP
+    PUSHBUTTON      "Button3",IDC_BUTTON41,168,91,23,21,BS_BITMAP
+    PUSHBUTTON      "Button3",IDC_BUTTON42,7,112,23,21,BS_BITMAP
+    PUSHBUTTON      "Button3",IDC_BUTTON43,30,112,23,21,BS_BITMAP
+    PUSHBUTTON      "Button3",IDC_BUTTON44,53,112,23,21,BS_BITMAP
+    PUSHBUTTON      "Button3",IDC_BUTTON45,76,112,23,21,BS_BITMAP
+    PUSHBUTTON      "Button3",IDC_BUTTON46,99,112,23,21,BS_BITMAP
+    PUSHBUTTON      "Button3",IDC_BUTTON47,122,112,23,21,BS_BITMAP
+    PUSHBUTTON      "Button3",IDC_BUTTON48,145,112,23,21,BS_BITMAP
+    PUSHBUTTON      "Button3",IDC_BUTTON49,168,112,23,21,BS_BITMAP
+    PUSHBUTTON      "Button3",IDC_BUTTON50,7,133,23,21,BS_BITMAP
+    PUSHBUTTON      "Button3",IDC_BUTTON51,30,133,23,21,BS_BITMAP
+    PUSHBUTTON      "Button3",IDC_BUTTON52,53,133,23,21,BS_BITMAP
+    PUSHBUTTON      "Button3",IDC_BUTTON53,76,133,23,21,BS_BITMAP
+    PUSHBUTTON      "Button3",IDC_BUTTON54,99,133,23,21,BS_BITMAP
+    PUSHBUTTON      "Button3",IDC_BUTTON55,122,133,23,21,BS_BITMAP
+    PUSHBUTTON      "Button3",IDC_BUTTON56,145,133,23,21,BS_BITMAP
+    PUSHBUTTON      "Button3",IDC_BUTTON57,168,133,23,21,BS_BITMAP
+    PUSHBUTTON      "Button3",IDC_BUTTON58,7,154,23,21,BS_BITMAP
+    PUSHBUTTON      "Button3",IDC_BUTTON59,30,154,23,21,BS_BITMAP
+    PUSHBUTTON      "Button3",IDC_BUTTON60,53,154,23,21,BS_BITMAP
+    PUSHBUTTON      "Button3",IDC_BUTTON61,76,154,23,21,BS_BITMAP
+    PUSHBUTTON      "Button3",IDC_BUTTON62,99,154,23,21,BS_BITMAP
+    PUSHBUTTON      "Button3",IDC_BUTTON63,122,154,23,21,BS_BITMAP
+    PUSHBUTTON      "Button3",IDC_BUTTON64,145,154,23,21,BS_BITMAP
+    PUSHBUTTON      "Button3",IDC_BUTTON65,168,154,23,21,BS_BITMAP
+    EDITTEXT        IDC_EDIT1,18,184,69,14,ES_CENTER | ES_AUTOHSCROLL | ES_READONLY
+    EDITTEXT        IDC_EDIT2,110,184,69,14,ES_CENTER | ES_AUTOHSCROLL | ES_READONLY
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// DESIGNINFO
+//
+
+#ifdef APSTUDIO_INVOKED
+GUIDELINES DESIGNINFO
+BEGIN
+    IDD_DIALOG1, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 192
+        VERTGUIDE, 18
+        VERTGUIDE, 30
+        VERTGUIDE, 53
+        VERTGUIDE, 76
+        VERTGUIDE, 87
+        VERTGUIDE, 99
+        VERTGUIDE, 110
+        VERTGUIDE, 122
+        VERTGUIDE, 145
+        VERTGUIDE, 168
+        VERTGUIDE, 179
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 198
+        HORZGUIDE, 28
+        HORZGUIDE, 49
+        HORZGUIDE, 70
+        HORZGUIDE, 91
+        HORZGUIDE, 112
+        HORZGUIDE, 133
+        HORZGUIDE, 154
+        HORZGUIDE, 175
+    END
+END
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// AFX_DIALOG_LAYOUT
+//
+
+IDD_DIALOG1 AFX_DIALOG_LAYOUT
+BEGIN
+    0
+END
+
+#endif    // ??????? (??????) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+
